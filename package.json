@@ -1,5 +1,5 @@
 {
-  "name": "langchain",
+  "name": "chromechat",
   "version": "1.0.0",
   "description": "This example demonstrates how to display the same side panel on every site using the [Side Panel API](https://developer.chrome.com/docs/extensions/reference/sidePanel/).",
   "main": "sidepanel.js",
