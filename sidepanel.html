@@ -2,10 +2,17 @@
 <html>
   <head>
     <title>My Sidepanel</title>
+    <script type="module" src="sidepanel.js"></script>
   </head>
   <body>
     <h1>All sites sidepanel extension</h1>
     <p>This side panel is enabled on all sites</p>
-    <script src="sidepanel.js"></script>
+
+    <input type="text" id="userInput" placeholder="Enter your message here...">
+
+    <!-- Removed the inline event and added an id to the button -->
+    <button id="sendButton">Send</button>
+
+    <div id="output">Response will appear here.</div>
   </body>
 </html>
