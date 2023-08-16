@@ -1,0 +1,19 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to display the same side panel on every site using the [Side Panel API](https://developer.chrome.com/docs/extensions/reference/sidePanel/).",
+  "main": "sidepanel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristinC319/ChromeChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristinC319/ChromeChat/issues"
+  },
+  "homepage": "https://github.com/CristinC319/ChromeChat#readme"
+}
